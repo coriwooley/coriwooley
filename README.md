@@ -1,5 +1,6 @@
-<h1> 👋 Hi, I’m Cori Wooley! </h1>
-- 🌱 I’m currently learning JS, HTML, CSS, React
+# 👋 Hi, I’m Cori Wooley!
+## Full Stack Web Developer
+- 🌱 I’m currently working on [Mental Health To Do List](https://github.com/coriwooley/mental-health-todo-list)
 - 📫 How to reach me: wooleycori@gmail.com
 
 <!---
