@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cori Wooley!
+<h1> 👋 Hi, I’m Cori Wooley! </h1>
 - 🌱 I’m currently learning JS, HTML, CSS, React
 - 📫 How to reach me: wooleycori@gmail.com
 
