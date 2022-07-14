@@ -2,7 +2,7 @@
 ## Full Stack Web Developer
 - 🌱 I’m currently working on [Mental Health To Do List](https://github.com/coriwooley/mental-health-todo-list)
 - 💬 Ask me about React, Hooks, Redux State Management, Express.js
-- ![programming gif](https://giphy.com/explore/programming-in-real-life-and-programming-in-movies)
+- ![](https://github.com/coriwooley/gif/blob/main/giphy.gif)
 - 📫 How to reach me: wooleycori@gmail.com
 
 
