@@ -5,7 +5,7 @@
 - ![](https://github.com/coriwooley/gif/blob/main/giphy.gif)
 - 📫 How to reach me: wooleycori@gmail.com
 
-![Cori's GitHub stats](https://github-readme-stats.vercel.app/api?username=coriwooley)](https://github.com/coriwooley/github-readme-stats)
+[![Cori's GitHub stats](https://github-readme-stats.vercel.app/api?username=coriwooley)](https://github.com/coriwooley/github-readme-stats)
 
 ### TECH STACK & TOOLS
 
